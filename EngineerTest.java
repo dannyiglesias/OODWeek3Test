@@ -10,10 +10,6 @@ public class EngineerTest{
 		
 		control.setCommand(engineOn);
 		control.commandInitiated();
-		//control.setCommand(setRevolutions(12000));
-		//engine.setRevolutions(12000);
-		//engine.setRevolutions(9000);
-		//engine.engineOff();
 	}
 
 }
