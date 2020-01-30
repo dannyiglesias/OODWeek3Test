@@ -8,15 +8,6 @@ public class EngineOnCommand implements Command {
 	}
 	
 	public void on() {
-		engine.on();
-		//engine.setRevolutions(9000);
-		
-	}
-	//public void undo() {
-		//engine.setRevolutions(0);
-		//engine.off();
-	//}
-	
-	
-
+		engine.on();	
+	}	
 }
